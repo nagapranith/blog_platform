@@ -1,0 +1,82 @@
+# 📋 Requirements
+
+## Software Requirements
+
+### Frontend
+- React.js
+- Axios
+- React Router DOM
+- CSS3
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT Authentication
+- bcryptjs
+- CORS
+- dotenv
+- nodemon
+
+---
+
+# 💻 System Requirements
+
+## Hardware Requirements
+- Minimum 4GB RAM
+- Dual Core Processor
+- 500MB Free Storage
+- Internet Connection
+
+## Software Requirements
+- VS Code
+- Node.js (Latest Version)
+- MongoDB Atlas or Local MongoDB
+- Git & GitHub
+- Chrome Browser
+
+---
+
+# 📦 NPM Packages
+
+## Backend Packages
+
+bash id="y7c4k2" npm install express mongoose cors dotenv bcryptjs jsonwebtoken nodemon 
+
+## Frontend Packages
+
+bash id="pm0qz8" npm install axios react-router-dom 
+
+---
+
+# 🌐 Browser Support
+
+- Google Chrome
+- Microsoft Edge
+- Firefox
+- Safari
+
+---
+
+# 🔐 Functional Requirements
+
+- User Registration
+- User Login
+- JWT Authentication
+- Product Management
+- Add to Cart
+- Checkout System
+- Responsive UI
+- Admin Dashboard
+
+---
+
+# ⚡ Non-Functional Requirements
+
+- Fast Loading Speed
+- Secure Authentication
+- Mobile Responsive
+- Scalable Architecture
+- Easy Navigation
+- Clean UI/UX
